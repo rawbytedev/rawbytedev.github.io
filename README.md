@@ -1,25 +1,87 @@
-# 👋 Hey there! I'm Aren
+# RawByteDev Portfolio
 
-I'm a passionate blockchain enthusiast and developer with a keen interest in solving real-world problems through innovative technology. Currently, I'm diving deep into the world of scalability, energy efficiency, and decentralization, with projects like Animecoin (ANI) and new blockchain solutions that integrate Layer 2 scalability and pBFT PoS consensus mechanisms.
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17820892?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/17820892)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawbytedev&show_icons=true&theme=dark)](https://github.com/rawbytedev)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawbytedev&layout=donut&theme=radical)](https://github.com/rawbytedev)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rawbytedev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## What I Do:
-- **Blockchain Development**: Focused on creating scalable and sustainable blockchain solutions.
-- **Community Building**: Engaging with like-minded individuals to build strong, supportive communities.
-- **Anime Enthusiast**: Bridging the gap between the anime world and blockchain technology through creative projects.
-- **Continuous Learning**: Always eager to learn, grow, and stay updated with the latest trends in blockchain and AI.
+---
 
-## Core Strengths:
-- **Innovative Problem Solver**: I thrive on tackling challenges and finding unique solutions to complex issues.
-- **Collaborative Spirit**: I believe in the power of teamwork and enjoy working with others to achieve common goals.
-- **Dedication to Quality**: I strive for excellence in everything I do, from coding to community engagement.
+## Summary
 
-## Areas for Growth:
-- **Time Management**: Always working on balancing my passion projects with day-to-day responsibilities.
-- **Public Speaking**: Continuously improving my skills to better share my ideas and projects with the world.
+I’m a systems-oriented developer passionate about building custom data formats, hashing utilities, and modular tools that solve real-world problems. My hands-on experimentation in Python and Go ranges from a bespoke hashing library to a custom encoding format.
 
-## Fun Facts:
-- **Love for Anime**: A die-hard anime fan, I enjoy integrating my love for anime into my blockchain projects.
-- **Gaming**: When I'm not coding, you can find me exploring virtual worlds and engaging in epic quests.
+---
 
-## Let's Connect:
-Feel free to reach out if you're interested in collaboration, have questions about blockchain technology, or just want to chat about anime!
+## Skills
+
+- **Languages:** Python, Go, C#  
+- **Cryptography & Hashing:** custom hash utilities, hash-cracking techniques  
+- **Data Formats & Encoding:** bespoke binary/text formats, integrity checks  
+- **Concurrency & Performance:** threading, goroutines, profiling, benchmarks  
+- **Tooling & CLI:** command-line interfaces, utility scripting, Gists  
+
+---
+
+## Featured Projects
+
+### AxonHash
+
+Modular hashing library designed for blockchain and cryptographic workflows.  
+
+- **Tech:** Python core; Go implementation in progress  
+- **Highlights:**  
+  - Unified interface for multiple hashing algorithms  
+  - Performance and memory-usage benchmarks  
+  - Planned goroutine-powered Go port  
+[![AxonHash](https://img.shields.io/badge/Repo-AxonHash-blue?style=for-the-badge)](https://github.com/rawbytedev/axonhash)
+
+---
+
+### Fractus  
+
+Custom binary/text encoding format with encoder/decoder tooling for P2P data exchange.  
+
+- **Tech:** Go  
+- **Highlights:**  
+  - Compact wire format with header checksums  
+  - CLI for format validation and sample data generation  
+  - Throughput profiling using Go’s native tools  
+[![Fractus](https://img.shields.io/badge/Repo-Fractus-green?style=for-the-badge)](https://github.com/rawbytedev/fractus)
+
+---
+
+### DataFrame Memory Leak Solution (Gist)  
+
+Showcase How to avoid growing RSS when working with Dataframes
+
+- **Tech:** Python  
+- **Use Case:** Testbed for combinatorial generation logic in cracking tools  
+[![DataFrame Memory Leak Solution Gist](https://img.shields.io/badge/Gist-WordlistGenerator-orange?style=for-the-badge)](https://gist.github.com/rawbytedev/c354aec455dcad1558be6616b9bacaad)
+
+---
+
+## Other Experiments & Utilities
+
+A collection of smaller repos where I explore:
+
+- Go concurrency patterns and channel pipelines
+- Data serialization formats (JSON, Protobuf, custom)  
+- CLI scaffolding, argument parsing, and error-handling strategies  
+
+[![All Repositories](https://img.shields.io/badge/All_Repositories-rawbytedev-blue?style=for-the-badge&logo=github)](https://github.com/rawbytedev?tab=repositories)
+
+---
+
+## Community Contributions
+
+- **Stack Overflow** (400+ rep): answering questions on Go concurrency, blockchain architecture, and P2P networking  
+- Shared Gists and open-source issue help to support fellow developers  
+
+---
+
+## Contact & Links
+
+- [GitHub](https://github.com/rawbytedev)  
+- [Stack Overflow](https://stackoverflow.com/users/17820892)  
+- [Email](mailto:radiationbolt@gmail.com)
