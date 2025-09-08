@@ -56,7 +56,7 @@ Custom binary/text encoding format with encoder/decoder tooling for P2P data exc
 Showcase How to avoid growing RSS when working with Dataframes
 
 - **Tech:** Python  
-- **Use Case:** Testbed for combinatorial generation logic in cracking tools  
+- **Use Case:** When Processing Dataframes in other to avoid growing RSS and memory waste
 [![DataFrame Memory Leak Solution Gist](https://img.shields.io/badge/Gist-Dataframe_Memory_Leak_Solution-orange?style=for-the-badge)](https://gist.github.com/rawbytedev/c354aec455dcad1558be6616b9bacaad)
 
 ---
