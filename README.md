@@ -57,7 +57,7 @@ Showcase How to avoid growing RSS when working with Dataframes
 
 - **Tech:** Python  
 - **Use Case:** Testbed for combinatorial generation logic in cracking tools  
-[![DataFrame Memory Leak Solution Gist](https://img.shields.io/badge/Gist-Dataframe Memory Leak Solution-orange?style=for-the-badge)](https://gist.github.com/rawbytedev/c354aec455dcad1558be6616b9bacaad)
+[![DataFrame Memory Leak Solution Gist](https://img.shields.io/badge/Gist-DataframeMemoryLeakSolution-orange?style=for-the-badge)](https://gist.github.com/rawbytedev/c354aec455dcad1558be6616b9bacaad)
 
 ---
 
