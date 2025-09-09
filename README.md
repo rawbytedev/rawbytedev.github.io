@@ -75,7 +75,6 @@ A collection of smaller repos where I explore:
 
 ## Community Contributions
 
-- **Stack Overflow** (400+ rep): answering questions on Go concurrency, blockchain architecture, and P2P networking  
 - Shared Gists and open-source issue help to support fellow developers  
 
 ---
